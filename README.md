@@ -75,6 +75,7 @@ This will download the example and ask permission to open your browser, enabling
 
 <p></p>
 
+
 After forking [this example](https://codesandbox.io/s/github/liveblocks/liveblocks/tree/main/examples/nextjs-notion-like-ai-editor) on CodeSandbox, create the `LIVEBLOCKS_SECRET_KEY` environment variable as a [secret](https://codesandbox.io/docs/secrets).
 
 </details>
